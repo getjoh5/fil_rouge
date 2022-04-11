@@ -1,0 +1,2 @@
+/opt/riscv32/bin/riscv32-unknown-elf-ar qc libperfbench.core.a CMakeFiles/perfbench.core.dir/main.c.o
+/opt/riscv32/bin/riscv32-unknown-elf-ranlib libperfbench.core.a
